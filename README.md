@@ -6,8 +6,8 @@
   <h3> -💬Si necesitas de mi ayuda mandame un mensaje!</h3>
 
 <h2> 📞 Contacto</h2>
-  <div style="align-items-center">
-    <a href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="25px">Thiago  López</a>
+  <div class="align-items-center">
+    <a href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px">Thiago  López</a>
   </div>
   
  
