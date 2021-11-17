@@ -1,10 +1,10 @@
-## 👋 Hola, soy Thiago!
-  🌱Estudiando Ingenieria en Sistemas, UTN-FRT.
-  🌱Estudiando desarrollo web FullStack.
-  💬Si necesitas de mi ayuda mandame un mensaje!
+# 👋 Hola, soy Thiago!
+  -🌱Estudiando Ingenieria en Sistemas, UTN-FRT.
+  -🌱Estudiando desarrollo web FullStack.
+  -💬Si necesitas de mi ayuda mandame un mensaje!
 
-# 📞 Contacto
-  [LinkedIn](https://www.linkedin.com/in/thiagolopezalderete/)
+## 📞 Contacto
+  ![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Flinkedin_174857&psig=AOvVaw2rxaRWzpJTYKLz-A3HOao7&ust=1637267756545000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjrnuqfoPQCFQAAAAAdAAAAABAD) [Thiago López](https://www.linkedin.com/in/thiagolopezalderete/)
  
   
 
