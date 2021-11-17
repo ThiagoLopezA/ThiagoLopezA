@@ -1,4 +1,12 @@
-### Hi there 👋
+## 👋 Hola, soy Thiago!
+  🌱Estudiando Ingenieria en Sistemas, UTN-FRT.
+  🌱Estudiando desarrollo web FullStack.
+  💬Si necesitas de mi ayuda mandame un mensaje!
+
+# 📞 Contacto
+  [LinkedIn](https://www.linkedin.com/in/thiagolopezalderete/)
+ 
+  
 
 <!--
 **ThiagoLopezA/ThiagoLopezA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
