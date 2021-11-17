@@ -5,7 +5,7 @@
   <h3> -💬Si necesitas de mi ayuda mandame un mensaje!</h3>
 
 <h2> 📞 Contacto</h2>
-    <a href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
+    <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
 
   
  
