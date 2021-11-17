@@ -4,7 +4,7 @@
   <h3> -💬Si necesitas de mi ayuda mandame un mensaje!</h3>
 
 <h2> 📞 Contacto</h2>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Flinkedin_174857&psig=AOvVaw2rxaRWzpJTYKLz-A3HOao7&ust=1637267756545000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjrnuqfoPQCFQAAAAAdAAAAABAD" alt="LinkedIn" width="50px" style="display=inline-block;">
+  <img src="https://img.shields.io/badge/-LinkedIn-pink?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" width="50px" style="display=inline-block;">
   <a href="https://www.linkedin.com/in/thiagolopezalderete/">Thiago López</a>
  
   
