@@ -4,6 +4,13 @@
   <h3> -🌱Estudiando desarrollo web FullStack.</h3>
   <h3> -💬Si necesitas de mi ayuda mandame un mensaje!</h3>
 
+<h2> ✅ Conocimientos </h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>C++</li>
+  <ul>
 <h2> 📞 Contacto</h2>
     <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
 
