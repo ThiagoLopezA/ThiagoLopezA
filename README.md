@@ -1,5 +1,5 @@
 <div class="readmeWrapper">
-  <h3 align="center">👋 Hola, soy Thiago.</h3>
+  <h3 align="center"><b>👋 Hola, soy Thiago.</b></h3>
   <div class="contact" align="center">
     <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
      <a target="_BLANK" href="https://www.instagram.com/thiagolopez_a/"><img src="https://clipart-best.com/img/instagram/instagram-clip-art-16.png" alt="Instagram" width="35px"></a>
