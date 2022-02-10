@@ -1,8 +1,8 @@
 <div class="readmeWrapper">
   <h3 align="center">👋 Hola, soy Thiago.</h3>
   <div class="contact" align="center">
-    <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
-     <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
+    <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px" stlye="margin: 10px"></a>
+     <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px" stlye="margin: 10px"></a>
   </div>
 </div>
 
