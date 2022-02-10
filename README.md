@@ -4,17 +4,33 @@
     <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
      <a target="_BLANK" href="https://www.instagram.com/thiagolopez_a/"><img src="https://clipart-best.com/img/instagram/instagram-clip-art-16.png" alt="Instagram" width="35px"></a>
   </div>
-  <h4>💻 Lenguajes y herramientas<b></b></h4>
+  <table border=0>
+    <tr>
+      <th>💻 Lenguajes</th>
+    </tr>
+    <tr>
+      <td><b>C++</b></td>
+    </tr>
+    <tr>
+      <td><b>JavaScript</b></td>
+    </tr>
+    <tr>
+      <td><b>HTML</b></td>
+    </tr>
+    <tr>
+      <td><b>CSS</b></td>
+    </tr>
+  </table>
+  <!--
+  <h4>💻 Lenguajes<b></b></h4>
   <ul>
-    <h5><i>Lenguajes:</i><h5>
     <li><b>C++</b></li>
     <li><b>JavaScript</b></li>
     <li><b>HTML</b></li>
     <li><b>CSS</b></li>
-    
   </ul>
 </div>
-
+--!>
 
 <!--
 <h2> 👋 Hola, soy Thiago! </h2>
