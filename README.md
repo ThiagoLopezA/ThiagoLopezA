@@ -6,6 +6,7 @@
   </div>
   <h4>💻 Lenguajes y herramientas<b></b></h4>
   <ul>
+    <h5><i>Sistemas de estrellas (x/5)</i><h5>
     <li><b>C++ : ⭐⭐⭐⭐⭐</b></li>
     <li><b>JavaScript : ⭐⭐⭐⭐</b></li>
     <li><b>HTML : ⭐⭐⭐⭐⭐</b></li>
