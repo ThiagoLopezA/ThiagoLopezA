@@ -8,21 +8,26 @@
     <tr>
       <th>💻 Lenguajes</th>
       <th>📚 Frameworks</th>
+      <th>💬 Idiomas</th>
     </tr>
     <tr>
       <td><b>C++</b></td>
       <td><b>React</b></td>
+      <td><b>Español (Nativo)></b></td>
     </tr>
     <tr>
       <td><b>JavaScript</b></td>
       <td><b>Material UI</b></td>
+      <td><b>Ingles (B2)></b></td>
     </tr>
     <tr>
       <td><b>HTML</b></td>
       <td><b>Bootstrap</b></td>
+      <td></td>
     </tr>
     <tr>
       <td><b>CSS</b></td>
+      <td></td>
       <td></td>
     </tr>
   </table>
