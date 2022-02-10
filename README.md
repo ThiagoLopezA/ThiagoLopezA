@@ -1,4 +1,8 @@
+<h3 align="center">👋 Hola, soy Thiago.</h3>
 
+
+
+<!--
 <h2> 👋 Hola, soy Thiago! </h2>
   <h3> -🌱Estudiando Ingenieria en Sistemas, UTN-FRT.</h3>
   <h3> -🌱Estudiando desarrollo web FullStack.</h3>
@@ -11,7 +15,7 @@
     <h3>- C++</h3>
 <h2> 📞 Contacto</h2>
     <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
-
+--!>
   
  
   
