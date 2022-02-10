@@ -7,15 +7,19 @@
   <table align="center">
     <tr>
       <th>💻 Lenguajes</th>
+      <th>📚 Frameworks</th>
     </tr>
     <tr>
       <td><b>C++</b></td>
+      <td><b>React</b></td>
     </tr>
     <tr>
       <td><b>JavaScript</b></td>
+      <td><b>Material UI</b></td>
     </tr>
     <tr>
       <td><b>HTML</b></td>
+      <td><b>Bootstrap</b></td>
     </tr>
     <tr>
       <td><b>CSS</b></td>
