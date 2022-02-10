@@ -5,6 +5,13 @@
      <a target="_BLANK" href="https://www.instagram.com/thiagolopez_a/"><img src="https://clipart-best.com/img/instagram/instagram-clip-art-16.png" alt="Instagram" width="35px"></a>
   </div>
   <h4>💻 Lenguajes y herramientas<b></b></h4>
+  <ul>
+    <li><b>C++ : ⭐⭐⭐⭐⭐</b></li>
+    <li><b>JavaScript : ⭐⭐⭐⭐</b></li>
+    <li><b>HTML : ⭐⭐⭐⭐⭐</b></li>
+    <li><b>CSS : ⭐⭐⭐⭐</b></li>
+    
+  </ul>
 </div>
 
 
