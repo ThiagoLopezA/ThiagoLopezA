@@ -4,9 +4,9 @@
     <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
      <a target="_BLANK" href="https://www.instagram.com/thiagolopez_a/"><img src="https://clipart-best.com/img/instagram/instagram-clip-art-16.png" alt="Instagram" width="35px"></a>
   </div>
+  <h4>💻 Lenguajes y herramientas<b></b></h4>
 </div>
 
-######💻 Lenguajes y herramientas
 
 <!--
 <h2> 👋 Hola, soy Thiago! </h2>
