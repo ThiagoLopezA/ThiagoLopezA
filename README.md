@@ -6,11 +6,11 @@
   </div>
   <h4>💻 Lenguajes y herramientas<b></b></h4>
   <ul>
-    <h5><i>Sistemas de estrellas (x/5)</i><h5>
-    <li><b>C++ : ⭐⭐⭐⭐⭐</b></li>
-    <li><b>JavaScript : ⭐⭐⭐⭐</b></li>
-    <li><b>HTML : ⭐⭐⭐⭐⭐</b></li>
-    <li><b>CSS : ⭐⭐⭐⭐</b></li>
+    <h5><i>Lenguajes:</i><h5>
+    <li><b>C++</b></li>
+    <li><b>JavaScript</b></li>
+    <li><b>HTML</b></li>
+    <li><b>CSS</b></li>
     
   </ul>
 </div>
