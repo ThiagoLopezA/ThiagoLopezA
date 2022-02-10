@@ -1,18 +1,13 @@
 <div class="readmeWrapper">
   <h3 align="center">👋 Hola, soy Thiago.</h3>
-  <div class="contact">
-    <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/">img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
-     <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/">img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
+  <div class="contact" style="display:flex, justify-content:center">
+    <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
+     <a target="_BLANK" href="https://www.linkedin.com/in/thiagolopezalderete/"><img src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-2.png" alt="LinkedIn" width="35px"></a>
   </div>
 </div>
 
 
-<style>
-  .contact{
-    display: flex,
-    justify-content: center,
-  }
-</style>
+
 <!--
 <h2> 👋 Hola, soy Thiago! </h2>
   <h3> -🌱Estudiando Ingenieria en Sistemas, UTN-FRT.</h3>
