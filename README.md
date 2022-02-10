@@ -6,8 +6,8 @@
   </div>
 </div>
 | Description                       |
- | :-------------------------------- |
- | **Required**. Id of item to fetch |
+| :-------------------------------- |
+| **Required**. Id of item to fetch |
 
 
 
