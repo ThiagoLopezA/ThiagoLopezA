@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, soy Thiago</h1>
-<h3 align="center">Fullstack Node Web Developer Jr.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
