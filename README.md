@@ -1,18 +1,18 @@
-<h2> Hi There, I'm Thiago! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+## Hi, I'm Thiago 👋
 
-I'm a Software Engineer 🚀 from Argentina 🇦🇷
+📍 **Córdoba, Argentina** | 🛠️ **Compulsive builder, hackathon lover** | 🚀 **Founder, [Cliny](https://cliny.com.ar)**
 
-I'm a passionate learner who loves the code ☕︎. You'll always find me learning something new.
+I build software for markets the big players skipped — small teams, real users, shipped end to end.
+Solutions Architect at **[Inforge](https://inforge.us)** and Delivery Director at **[Tenfold](https://usetenfold.ai)** to pay for the habit.
+Give me a free weekend and I'll spend it at a hackathon.
 
-Beside's programming, I love videogames 🎮 and delicious food 🌯 🍱.
+---
 
-```javascript
-const thiagoLopez = {
-  code: [Javascript, Typescript, Apex, HTML, CSS],
-  tools: [React, Expressjs, Nestjs, Salesforce],
-}
-```
+## Products
 
-[![Linkedin: ThiagoLopez](https://img.shields.io/badge/-ThiagoLopez-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagolopezalderete/)](https://www.linkedin.com/in/thiagolopezalderete/)
-[![GitHub ThiagoLopez](https://img.shields.io/github/followers/ThiagoLopez?label=follow&style=social)](https://github.com/ThiagoLopezA)
-[![Gmail ThiagoLopez](https://img.shields.io/badge/Gmail-thiagolopezald%40gmail.com-success)](mailto:thiagolopezald@gmail.com)
+- 🩺 **[Cliny](https://cliny.com.ar)** — the clinic software Argentine doctors actually use
+- 🤖 **Spade** — automating the boring half of software development
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagolopezalderete/) [![Mail](https://img.shields.io/badge/-thiago%40time2build.ai-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thiago@time2build.ai)
