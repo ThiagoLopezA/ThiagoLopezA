@@ -15,4 +15,10 @@ Give me a free weekend and I'll spend it at a hackathon.
 
 ---
 
+## Tools
+
+- 📐 **Plumb** — a swarm of agents that checks your vibe-coded app is actually straight `🚧 building`
+
+---
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagolopezalderete/) [![Mail](https://img.shields.io/badge/-thiago%40time2build.ai-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thiago@time2build.ai)
