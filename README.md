@@ -11,7 +11,7 @@ Give me a free weekend and I'll spend it at a hackathon.
 ## Products
 
 - 🩺 **[Cliny](https://cliny.com.ar)** — the clinic software Argentine doctors actually use
-- 🤖 **[Spade](https://spade.sh)** — automating the boring half of software development
+- 🟪 **[Spade](https://spade.sh)** — automating the boring half of software development
 
 ---
 
